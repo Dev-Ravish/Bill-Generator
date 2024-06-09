@@ -1,0 +1,6 @@
+Ravish's Bill Breakdown: 
+Tomato:                   ...Rs 23.45
+Potato:                   ...Rs 34.5
+Onion:                    ...Rs 67.21
+tip:                      ...Rs 10
+total:                    ...Rs 135.160
